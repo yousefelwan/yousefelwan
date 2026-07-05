@@ -1,38 +1,26 @@
-# Saksham Taneja 👨‍💻
+# Yousef Elwan 👨‍💻
 
-[![Twitter Badge](https://img.shields.io/badge/-@sakshamtaneja-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sakshamtaneja00)](https://twitter.com/sakshamtaneja00) [![Linkedin Badge](https://img.shields.io/badge/-sakshamtaneja-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tanejasaksham/)](https://www.linkedin.com/in/tanejasaksham/) [![Medium Badge](https://img.shields.io/badge/-@sakshamtaneja-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@sakshamtaneja/)](https://medium.com/@sakshamtaneja/)
-[![Donate](https://img.shields.io/badge/Support-%24-blue)](https://www.paypal.me/sakshamtaneja)
-[![GitHub followers](https://img.shields.io/github/followers/sakshamtaneja21?label=Follow&style=social)](https://github.com/sakshamtaneja/?tab=follow)
-[![Gmail Badge](https://img.shields.io/badge/-sakshamtaneja7861@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sakshamtaneja7861@gmail.com)](mailto:sakshamtaneja7861@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=YOUR_LINKEDIN_URL)](YOUR_LINKEDIN_URL) [![GitHub followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Follow&style=social)](https://github.com/YOUR_GITHUB_USERNAME) [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yousefelwan2007@gmail.com)](mailto:yousefelwan2007@gmail.com)
 ---
 
 ## Hi there 👋,
 
-### I'm Saksham Taneja, I am a community guy who loves tech and see myself as product enthoziast.
+### I'm Yousef Elwan, a Software Engineering student focused on building robust backend systems using .NET technologies.
 -------
   
-## 🧐 About
+## 🧐 About Me
 
-- 🏄‍ Community guy who loves being involved in communities and help students grow
-- 😄 I will usually be a part of hackathons as a #Mentor, #Participants and a #Organiser
-- 🔭 I am currently an MSFT Learn Ambassador, [Mozillian](https://mozillians.org/en-US/u/tanejasaksham/), IBM ZAmbassador, Ex-Google DSC Lead and been a part of many communities and programs by a big force
-- 🌱 I love to speak at public events and have been a speaker at many events. I organise Workshops, Webinars etc to help student Communitiess
-- 👯 And Many More...
+- 🎓 **Academic Background:** Computer Science Student at Mansoura University.
+- 🎯 **Career Focus:** Aspiring **.NET Developer** specializing in building scalable APIs and server-side applications.
+- 💻 **Backend Stack:** **C#** is my primary language, along with **ASP.NET Core**, Entity Framework, and **SQL Server** for database management.
+- 🛠️ **Other Languages:** Experienced in **C++** and **Python** for problem-solving and foundational software concepts.
+- 🌐 **Frontend Basics:** Familiar with **HTML5, CSS3, and JavaScript** to build and integrate full-stack web experiences.
 
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-- 💬 Ask me about anything and everything!
-- 📫 How to reach me: message me at [Whatsapp](https://wa.me/919829599750)
-- ⚡ Fun fact: I love meeting new people and eating food!
-- 💬 Ping Me about #cloud, #RPA, #CommunityOps, #DevRel, #speaking opportunity, #Marketing #CampusOps and anything you like
+- 🚀 **What I'm working on:** Diving deep into **ASP.NET Core Web APIs**, Clean Architecture, and database design.
+- 🧠 **Problem Solving:** Actively practicing core data structures and OOP principles.
+- ⚡ **Fun fact:** Outside of programming, I love playing and watching **football**! ⚽
+- 💬 Ping me about: `#CSharp`, `#DotNET`, `#WebAPI`, `#SQL`, `#Backend`, or `#SoftwareEngineering`.
 
-
-![Saksham's github stats](https://github-readme-stats.vercel.app/api?username=sakshamtaneja21&show_icons=true)
-
-<!--
-**sakshamtaneja21/sakshamtaneja21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-🤔
-
--->
-
+![Yousef's github stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true)
