@@ -1,6 +1,6 @@
 # Yousef Elwan 👨‍💻
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=YOUR_LINKEDIN_URL)](YOUR_LINKEDIN_URL) [![GitHub followers](https://img.shields.io/github/followers/yousefelwan?label=Follow&style=social)](https://github.com/yousefelwan) [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yousefelwan2007@gmail.com)](mailto:yousefelwan2007@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yousefelwan)](https://www.linkedin.com/in/yousefelwan) [![GitHub followers](https://img.shields.io/github/followers/yousefelwan?label=Follow&style=social)](https://github.com/yousefelwan) [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yousefelwan2007@gmail.com)](mailto:yousefelwan2007@gmail.com)
 ---
 
 ## Hi there 👋,
