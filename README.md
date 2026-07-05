@@ -23,4 +23,11 @@
 - ⚡ **Fun fact:** Outside of programming, I love playing and watching **football**! ⚽
 - 💬 Ping me about: `#CSharp`, `#DotNET`, `#WebAPI`, `#SQL`, `#Backend`, or `#SoftwareEngineering`.
 
-![Yousef's github stats](https://github-readme-stats.vercel.app/api?username=yousefelwan&show_icons=true)
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yousefelwan&show_icons=true&theme=dark&hide_border=false" alt="Yousef's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousefelwan&layout=compact&theme=dark&hide_border=false" alt="Yousef's Top Languages" width="48%" />
+</p>
