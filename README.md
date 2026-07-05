@@ -1,6 +1,6 @@
 # Yousef Elwan 👨‍💻
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=YOUR_LINKEDIN_URL)](YOUR_LINKEDIN_URL) [![GitHub followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Follow&style=social)](https://github.com/YOUR_GITHUB_USERNAME) [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yousefelwan2007@gmail.com)](mailto:yousefelwan2007@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=YOUR_LINKEDIN_URL)](YOUR_LINKEDIN_URL) [![GitHub followers](https://img.shields.io/github/followers/yousefelwan?label=Follow&style=social)](https://github.com/yousefelwan) [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yousefelwan2007@gmail.com)](mailto:yousefelwan2007@gmail.com)
 ---
 
 ## Hi there 👋,
@@ -23,4 +23,4 @@
 - ⚡ **Fun fact:** Outside of programming, I love playing and watching **football**! ⚽
 - 💬 Ping me about: `#CSharp`, `#DotNET`, `#WebAPI`, `#SQL`, `#Backend`, or `#SoftwareEngineering`.
 
-![Yousef's github stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true)
+![Yousef's github stats](https://github-readme-stats.vercel.app/api?username=yousefelwan&show_icons=true)
